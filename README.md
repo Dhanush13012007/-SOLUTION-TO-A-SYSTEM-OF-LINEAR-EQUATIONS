@@ -32,7 +32,8 @@ print(C)
 
 ## Output:
 ```
-<img width="437" height="156" alt="image" src="https://github.com/user-attachments/assets/94b5ae00-386f-43fb-939b-682beb7b156b" />
+<img width="437" height="156" alt="Screenshot 2026-05-17 205154" src="https://github.com/user-attachments/assets/2fe2a1b0-b5a6-4ebe-badc-fd13a39cbccd" />
+
 
 ```
 
