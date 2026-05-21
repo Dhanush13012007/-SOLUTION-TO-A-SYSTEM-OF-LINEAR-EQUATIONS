@@ -31,9 +31,9 @@ print(C)
 ```
 
 ## Output:
-``
+
 <img width="838" height="718" alt="image" src="https://github.com/user-attachments/assets/f2eb14e8-05eb-419e-83dd-bc080fe63c21" />
-``
+
 
 
 
